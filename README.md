@@ -1,2 +1,3 @@
-##### stat_study
-그동안 공부했던것을 포함해서 코드를 하나씩 올려보려고 함
+
+
+This repository is for trying to upload codes including what I've studied before.
